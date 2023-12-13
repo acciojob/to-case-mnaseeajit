@@ -1,6 +1,6 @@
 function toCase(text) {
   // write your code here
-	return (text + "-" + text.toUpperCase(text));
+	return (text.toLowerCase(text) + "-" + text.toUpperCase(text));
 }
 
 // DO not change the code below
